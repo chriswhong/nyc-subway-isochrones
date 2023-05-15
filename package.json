@@ -1,0 +1,25 @@
+{
+  "name": "gtfs-tinker",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@turf/buffer": "^6.5.0",
+    "@turf/dissolve": "^6.5.0",
+    "@turf/flatten": "^6.5.0",
+    "@turf/intersect": "^6.5.0",
+    "@turf/truncate": "^6.5.0",
+    "@turf/union": "^6.5.0",
+    "csvtojson": "^2.0.10",
+    "geojson-flatten": "^1.1.1",
+    "gtfs": "^4.3.0",
+    "turf-multipolygon": "^1.0.1",
+    "turf-point": "^2.0.1"
+  }
+}

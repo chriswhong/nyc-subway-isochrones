@@ -1,0 +1,8 @@
+{
+  "agencies": [
+    {
+      "path": "./data/google_transit.zip"
+    }
+  ],
+  "sqlitePath": "./data.sqlite"
+}
